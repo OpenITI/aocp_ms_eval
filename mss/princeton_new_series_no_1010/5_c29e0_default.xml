@@ -8,8 +8,8 @@
 		</sourceImageInformation>
 	</Description>
 	<Tags>
-		<OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
 		<OtherTag ID="BT1051" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/>
+		<OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
 	</Tags>
 	<Layout>
 		<Page WIDTH="4752" HEIGHT="7200" PHYSICAL_IMG_NR="5" ID="eSc_dummypage_">

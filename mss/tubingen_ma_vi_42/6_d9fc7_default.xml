@@ -8,8 +8,8 @@
 		</sourceImageInformation>
 	</Description>
 	<Tags>
-		<OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
 		<OtherTag ID="BT1067" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+		<OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
 	</Tags>
 	<Layout>
 		<Page WIDTH="3010" HEIGHT="3803" PHYSICAL_IMG_NR="6" ID="eSc_dummypage_">

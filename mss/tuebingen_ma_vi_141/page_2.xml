@@ -7,8 +7,8 @@
 		</sourceImageInformation>
 	</Description>
 	<Tags>
-		<OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
 		<OtherTag ID="BT1279" LABEL="Marginalia" DESCRIPTION="block type Marginalia"/>
+		<OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
 	</Tags>
 	<Layout>
 		<Page WIDTH="4201" HEIGHT="5621" PHYSICAL_IMG_NR="1" ID="eSc_dummypage_">
