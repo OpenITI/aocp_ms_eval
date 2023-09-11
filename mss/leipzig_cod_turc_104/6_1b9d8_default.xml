@@ -1,0 +1,539 @@
+<?xml version="1.0" ?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>6_1b9d8_default.png</fileName>
+			<fileIdentifier>https://www.qalamos.net/api/iiif/image/v2/DE15Book_derivate_00002117%2Fcod_turc_104_007.jpg/full/full/0/default.jpg</fileIdentifier>
+		</sourceImageInformation>
+	</Description>
+	<Tags>
+		<OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+		<OtherTag ID="BT1149" LABEL="Box" DESCRIPTION="block type Box"/>
+	</Tags>
+	<Layout>
+		<Page WIDTH="1931" HEIGHT="3428" PHYSICAL_IMG_NR="6" ID="eSc_dummypage_">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1931" HEIGHT="3428">
+				<TextBlock HPOS="805" VPOS="493" WIDTH="280" HEIGHT="330" ID="eSc_textblock_757d60ad" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="805 493 805 823 1085 823 1085 493"/>
+					</Shape>
+					<TextLine ID="eSc_line_6bcf93fe" BASELINE="854 552 1082 661" HPOS="838" VPOS="491" WIDTH="266" HEIGHT="194">
+						<Shape>
+							<Polygon POINTS="852 551 838 577 1067 685 1081 659 1104 608 1047 557 1047 554 1044 554 989 528 986 528 984 528 955 531 938 531 878 491 852 551"/>
+						</Shape>
+						<String CONTENT="المسائل المتعلقة" HPOS="838" VPOS="491" WIDTH="266" HEIGHT="194"/>
+					</TextLine>
+					<TextLine ID="eSc_line_e16bb4eb" BASELINE="838 608 1065 740" HPOS="809" VPOS="565" WIDTH="275" HEIGHT="200">
+						<Shape>
+							<Polygon POINTS="835 605 809 642 1044 765 1064 739 1084 702 1072 674 1072 671 1069 671 1069 668 1067 668 852 565 835 605"/>
+						</Shape>
+						<String CONTENT="بالاعتقادات" HPOS="809" VPOS="565" WIDTH="275" HEIGHT="200"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="801" VPOS="849" WIDTH="297" HEIGHT="234" ID="eSc_textblock_8968d192" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="801 849 801 1083 1098 1083 1098 849"/>
+					</Shape>
+					<TextLine ID="eSc_line_5a3eecaa" BASELINE="897 876 1085 1011" HPOS="866" VPOS="825" WIDTH="243" HEIGHT="211">
+						<Shape>
+							<Polygon POINTS="895 874 866 908 964 968 966 974 984 1005 986 1005 986 1008 989 1008 1061 1036 1084 1008 1109 962 926 825 895 874"/>
+						</Shape>
+						<String CONTENT="باب المياه" HPOS="866" VPOS="825" WIDTH="243" HEIGHT="211"/>
+					</TextLine>
+					<TextLine ID="eSc_line_97ce8e90" BASELINE="900 1004 960 1034" HPOS="875" VPOS="962" WIDTH="97" HEIGHT="103">
+						<Shape>
+							<Polygon POINTS="898 1002 875 1045 938 1065 958 1031 972 985 915 962 898 1002"/>
+						</Shape>
+						<String CONTENT="٣" HPOS="875" VPOS="962" WIDTH="97" HEIGHT="103"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="547" VPOS="486" WIDTH="238" HEIGHT="343" ID="eSc_textblock_37f8dd9d" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="547 486 547 829 785 829 785 486"/>
+					</Shape>
+					<TextLine ID="eSc_line_b3cafd73" BASELINE="590 513 778 658" HPOS="566" VPOS="402" WIDTH="340" HEIGHT="269">
+						<Shape>
+							<Polygon POINTS="589 511 566 537 609 594 612 594 612 597 615 597 758 671 775 657 906 477 869 445 866 445 863 445 789 439 712 437 672 402 589 511"/>
+						</Shape>
+						<String CONTENT="كتاب الطهاره" HPOS="566" VPOS="402" WIDTH="340" HEIGHT="269"/>
+					</TextLine>
+					<TextLine ID="eSc_line_d487890b" BASELINE="574 595 768 744" HPOS="546" VPOS="559" WIDTH="240" HEIGHT="206">
+						<Shape>
+							<Polygon POINTS="572 594 546 622 743 765 766 742 786 708 715 631 715 628 712 628 709 628 706 628 686 628 669 597 669 594 666 594 666 591 663 591 595 559 572 594"/>
+						</Shape>
+						<String CONTENT="باب الوضوء" HPOS="546" VPOS="559" WIDTH="240" HEIGHT="206"/>
+					</TextLine>
+					<TextLine ID="eSc_line_46ac3b30" BASELINE="617 711 660 753" HPOS="589" VPOS="677" WIDTH="91" HEIGHT="100">
+						<Shape>
+							<Polygon POINTS="615 708 589 731 623 777 657 751 680 717 640 677 615 708"/>
+						</Shape>
+						<String CONTENT="٢" HPOS="589" VPOS="677" WIDTH="91" HEIGHT="100"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="815" VPOS="1093" WIDTH="277" HEIGHT="241" ID="eSc_textblock_f1dce324" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="815 1093 815 1334 1092 1334 1092 1093"/>
+					</Shape>
+					<TextLine ID="eSc_line_6a1d7176" BASELINE="890 1100 1102 1255" HPOS="855" VPOS="1088" WIDTH="246" HEIGHT="191">
+						<Shape>
+							<Polygon POINTS="855 1136 1075 1279 1101 1254 1101 1209 1051 1142 1012 1112 966 1103 947 1090 889 1088 889 1099"/>
+						</Shape>
+						<String CONTENT="باب اعيان النجة" HPOS="855" VPOS="1088" WIDTH="246" HEIGHT="191"/>
+					</TextLine>
+					<TextLine ID="eSc_line_30df25b4" BASELINE="904 1261 956 1298" HPOS="883" VPOS="1222" WIDTH="89" HEIGHT="103">
+						<Shape>
+							<Polygon POINTS="903 1259 883 1285 929 1325 955 1296 972 1268 926 1222 903 1259"/>
+						</Shape>
+						<String CONTENT="٤" HPOS="883" VPOS="1222" WIDTH="89" HEIGHT="103"/>
+					</TextLine>
+					<TextLine ID="eSc_line_9a6f3495" BASELINE="933 1205 1078 1314" HPOS="909" VPOS="1196" WIDTH="186" HEIGHT="132">
+						<Shape>
+							<Polygon POINTS="909 1228 975 1299 975 1302 978 1302 1058 1328 1075 1311 1095 1279 1087 1254 1087 1251 1084 1251 1069 1269 958 1196 932 1202"/>
+						</Shape>
+						<String CONTENT="واحكامتها" HPOS="909" VPOS="1196" WIDTH="186" HEIGHT="132"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="531" VPOS="843" WIDTH="261" HEIGHT="247" ID="eSc_textblock_10ea34e3" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="531 843 531 1090 792 1090 792 843"/>
+					</Shape>
+					<TextLine ID="eSc_line_1eaa1075" BASELINE="620 882 788 1001" HPOS="569" VPOS="834" WIDTH="246" HEIGHT="188">
+						<Shape>
+							<Polygon POINTS="617 879 569 942 615 976 617 976 620 976 623 976 655 976 675 976 766 1022 786 999 815 948 646 834 617 879"/>
+						</Shape>
+						<String CONTENT="باب التيمم" HPOS="569" VPOS="834" WIDTH="246" HEIGHT="188"/>
+					</TextLine>
+					<TextLine ID="eSc_line_902e267b" BASELINE="643 988 706 1037" HPOS="623" VPOS="951" WIDTH="106" HEIGHT="114">
+						<Shape>
+							<Polygon POINTS="640 985 623 1002 669 1065 703 1036 729 1002 709 968 706 968 706 965 703 965 663 951 640 985"/>
+						</Shape>
+						<String CONTENT="٣" HPOS="623" VPOS="951" WIDTH="106" HEIGHT="114"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="228" VPOS="496" WIDTH="286" HEIGHT="340" ID="eSc_textblock_705eef46" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="228 496 228 836 514 836 514 496"/>
+					</Shape>
+					<TextLine ID="eSc_line_4946696d" BASELINE="300 529 508 661" HPOS="271" VPOS="491" WIDTH="252" HEIGHT="188">
+						<Shape>
+							<Polygon POINTS="297 528 271 565 380 614 403 637 434 668 434 671 437 671 440 671 489 679 506 659 523 625 443 545 443 542 440 542 437 542 383 537 317 491 297 528"/>
+						</Shape>
+						<String CONTENT="باب القل" HPOS="271" VPOS="491" WIDTH="252" HEIGHT="188"/>
+					</TextLine>
+					<TextLine ID="eSc_line_4c0d43f1" BASELINE="373 635 429 684" HPOS="328" VPOS="602" WIDTH="121" HEIGHT="129">
+						<Shape>
+							<Polygon POINTS="371 634 328 677 371 731 426 682 449 651 394 602 371 634"/>
+						</Shape>
+						<String CONTENT="٣" HPOS="328" VPOS="602" WIDTH="121" HEIGHT="129"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="544" VPOS="1096" WIDTH="254" HEIGHT="241" ID="eSc_textblock_0eefd83d" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="544 1096 544 1337 798 1337 798 1096"/>
+					</Shape>
+					<TextLine ID="eSc_line_a21bc433" BASELINE="617 1106 785 1288" HPOS="589" VPOS="1062" WIDTH="243" HEIGHT="257">
+						<Shape>
+							<Polygon POINTS="615 1105 589 1128 738 1319 783 1285 832 1225 792 1202 792 1188 789 1174 789 1171 789 1168 786 1168 738 1116 738 1114 657 1062 615 1105"/>
+						</Shape>
+						<String CONTENT="فصل فى الاستنجاء" HPOS="589" VPOS="1062" WIDTH="243" HEIGHT="257"/>
+					</TextLine>
+					<TextLine ID="eSc_line_1c6cedb2" BASELINE="623 1242 679 1294" HPOS="577" VPOS="1211" WIDTH="121" HEIGHT="103">
+						<Shape>
+							<Polygon POINTS="620 1239 577 1288 652 1314 677 1291 698 1262 643 1211 620 1239"/>
+						</Shape>
+						<String CONTENT="٥" HPOS="577" VPOS="1211" WIDTH="121" HEIGHT="103"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="815" VPOS="1354" WIDTH="293" HEIGHT="231" ID="eSc_textblock_8a47cd0d" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="815 1354 815 1585 1108 1585 1108 1354"/>
+					</Shape>
+					<TextLine ID="eSc_line_afad9fb7" BASELINE="973 1357 1092 1466" HPOS="946" VPOS="1285" WIDTH="212" HEIGHT="203">
+						<Shape>
+							<Polygon POINTS="1058 1302 1035 1285 972 1356 946 1382 966 1431 966 1434 969 1434 969 1436 972 1436 1064 1488 1089 1465 1158 1388 1115 1299 1115 1296 1112 1296 1112 1294 1109 1294 1107 1294 1072 1285 1058 1302"/>
+						</Shape>
+						<String CONTENT="باب الاذان" HPOS="946" VPOS="1285" WIDTH="212" HEIGHT="203"/>
+					</TextLine>
+					<TextLine ID="eSc_line_ca78b58d" BASELINE="864 1499 933 1552" HPOS="835" VPOS="1462" WIDTH="114" HEIGHT="109">
+						<Shape>
+							<Polygon POINTS="863 1496 835 1531 915 1571 932 1551 949 1516 889 1462 863 1496"/>
+						</Shape>
+						<String CONTENT="٥" HPOS="835" VPOS="1462" WIDTH="114" HEIGHT="109"/>
+					</TextLine>
+					<TextLine ID="eSc_line_03ad5c00" BASELINE="864 1390 1059 1585" HPOS="829" VPOS="1351" WIDTH="258" HEIGHT="245">
+						<Shape>
+							<Polygon POINTS="863 1388 829 1422 878 1445 903 1485 929 1525 932 1525 932 1528 935 1528 938 1528 958 1531 964 1531 966 1539 978 1571 978 1574 981 1574 981 1576 984 1576 1038 1596 1058 1582 1087 1548 1032 1474 1029 1474 1029 1471 1027 1471 998 1456 992 1456 992 1454 989 1416 989 1414 989 1411 986 1411 986 1408 898 1351 863 1388"/>
+						</Shape>
+						<String CONTENT="باب شروط الصلوة" HPOS="829" VPOS="1351" WIDTH="258" HEIGHT="245"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="244" VPOS="846" WIDTH="264" HEIGHT="244" ID="eSc_textblock_8ae49ce1" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="244 846 254 1070 508 1090 508 846"/>
+					</Shape>
+					<TextLine ID="eSc_line_984d665c" BASELINE="277 866 521 1040" HPOS="246" VPOS="814" WIDTH="314" HEIGHT="254">
+						<Shape>
+							<Polygon POINTS="274 865 246 902 357 1002 357 1005 360 1005 494 1068 520 1039 560 971 517 954 514 942 506 911 506 908 506 905 503 905 503 902 454 865 451 865 449 865 371 854 360 854 308 814 274 865"/>
+						</Shape>
+						<String CONTENT="باب المسح على الخفين" HPOS="246" VPOS="814" WIDTH="314" HEIGHT="254"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="544" VPOS="1354" WIDTH="241" HEIGHT="231" ID="eSc_textblock_4e264530" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="544 1354 544 1585 785 1585 785 1354"/>
+					</Shape>
+					<TextLine ID="eSc_line_478893e6" BASELINE="630 1499 663 1538" HPOS="597" VPOS="1474" WIDTH="92" HEIGHT="80">
+						<Shape>
+							<Polygon POINTS="629 1496 597 1516 635 1554 660 1536 689 1508 652 1474 629 1496"/>
+						</Shape>
+						<String CONTENT="٦" HPOS="597" VPOS="1474" WIDTH="92" HEIGHT="80"/>
+					</TextLine>
+					<TextLine ID="eSc_line_00e09b89" BASELINE="590 1364 792 1562" HPOS="557" VPOS="1334" WIDTH="261" HEIGHT="245">
+						<Shape>
+							<Polygon POINTS="589 1362 557 1391 763 1579 789 1559 818 1522 615 1334 589 1362"/>
+						</Shape>
+						<String CONTENT="باب صفة الصلوة" HPOS="557" VPOS="1334" WIDTH="261" HEIGHT="245"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="244" VPOS="1096" WIDTH="284" HEIGHT="251" ID="eSc_textblock_2d9380fb" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="244 1096 257 1324 528 1347 528 1096"/>
+					</Shape>
+					<TextLine ID="eSc_line_e0d26adf" BASELINE="320 1215 392 1278" HPOS="300" VPOS="1182" WIDTH="109" HEIGHT="134">
+						<Shape>
+							<Polygon POINTS="317 1214 300 1231 349 1316 391 1276 409 1245 340 1182 317 1214"/>
+						</Shape>
+						<String CONTENT="٥" HPOS="300" VPOS="1182" WIDTH="109" HEIGHT="134"/>
+					</TextLine>
+					<TextLine ID="eSc_line_915a6560" BASELINE="320 1113 518 1288" HPOS="271" VPOS="1074" WIDTH="272" HEIGHT="242">
+						<Shape>
+							<Polygon POINTS="271 1162 385 1223 391 1271 394 1271 489 1316 517 1285 543 1236 514 1228 454 1165 380 1088 380 1085 377 1085 346 1074 317 1111"/>
+						</Shape>
+						<String CONTENT="كتاب الصلوة" HPOS="271" VPOS="1074" WIDTH="272" HEIGHT="242"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="825" VPOS="1608" WIDTH="270" HEIGHT="240" ID="eSc_textblock_4f56cc02" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="825 1608 825 1848 1095 1848 1095 1608"/>
+					</Shape>
+					<TextLine ID="eSc_line_836d5eb3" BASELINE="989 1634 1075 1723" HPOS="964" VPOS="1602" WIDTH="131" HEIGHT="140">
+						<Shape>
+							<Polygon POINTS="986 1631 964 1651 1044 1742 1072 1722 1095 1688 1012 1602 986 1631"/>
+						</Shape>
+						<String CONTENT="باب" HPOS="964" VPOS="1602" WIDTH="131" HEIGHT="140"/>
+					</TextLine>
+					<TextLine ID="eSc_line_6a80cea2" BASELINE="864 1627 1088 1829" HPOS="835" VPOS="1594" WIDTH="280" HEIGHT="257">
+						<Shape>
+							<Polygon POINTS="863 1625 835 1651 961 1782 961 1785 1061 1851 1087 1828 1115 1793 1072 1733 1069 1733 1069 1731 1067 1731 1032 1722 1027 1719 1021 1711 989 1656 986 1656 986 1654 984 1654 944 1642 938 1639 889 1594 863 1625"/>
+						</Shape>
+						<String CONTENT="مايفسد الصلوة ومالا" HPOS="835" VPOS="1594" WIDTH="280" HEIGHT="257"/>
+					</TextLine>
+					<TextLine ID="eSc_line_2a60a5e3" BASELINE="884 1773 927 1809" HPOS="849" VPOS="1722" WIDTH="115" HEIGHT="114">
+						<Shape>
+							<Polygon POINTS="883 1771 849 1805 898 1836 926 1808 964 1753 921 1722 883 1771"/>
+						</Shape>
+						<String CONTENT="٧" HPOS="849" VPOS="1722" WIDTH="115" HEIGHT="114"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="251" VPOS="1357" WIDTH="254" HEIGHT="237" ID="eSc_textblock_aa4e0943" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="251 1357 251 1594 505 1594 505 1357"/>
+					</Shape>
+					<TextLine ID="eSc_line_5d87b40a" BASELINE="336 1502 399 1548" HPOS="311" VPOS="1468" WIDTH="106" HEIGHT="94">
+						<Shape>
+							<Polygon POINTS="334 1499 311 1531 383 1562 397 1545 417 1502 351 1468 334 1499"/>
+						</Shape>
+						<String CONTENT="٦" HPOS="311" VPOS="1468" WIDTH="106" HEIGHT="94"/>
+					</TextLine>
+					<TextLine ID="eSc_line_87048cf6" BASELINE="356 1400 514 1562" HPOS="331" VPOS="1359" WIDTH="206" HEIGHT="223">
+						<Shape>
+							<Polygon POINTS="354 1399 331 1416 483 1582 512 1559 537 1525 512 1496 512 1494 509 1454 509 1451 509 1448 506 1448 506 1445 431 1382 429 1382 426 1382 414 1379 400 1379 394 1359 354 1399"/>
+						</Shape>
+						<String CONTENT="باب الامامة" HPOS="331" VPOS="1359" WIDTH="206" HEIGHT="223"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="547" VPOS="1611" WIDTH="245" HEIGHT="231" ID="eSc_textblock_a2e2ed43" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="547 1611 547 1842 792 1842 792 1611"/>
+					</Shape>
+					<TextLine ID="eSc_line_05781f9e" BASELINE="706 1641 788 1720" HPOS="689" VPOS="1599" WIDTH="126" HEIGHT="134">
+						<Shape>
+							<Polygon POINTS="703 1639 689 1651 766 1733 786 1719 815 1685 740 1599 703 1639"/>
+						</Shape>
+						<String CONTENT="باب" HPOS="689" VPOS="1599" WIDTH="126" HEIGHT="134"/>
+					</TextLine>
+					<TextLine ID="eSc_line_cc68bcfa" BASELINE="597 1621 801 1839" HPOS="560" VPOS="1588" WIDTH="269" HEIGHT="268">
+						<Shape>
+							<Polygon POINTS="595 1619 560 1648 712 1813 712 1816 775 1856 798 1836 829 1799 778 1722 775 1722 775 1719 772 1719 726 1696 718 1691 715 1685 689 1636 689 1634 686 1634 686 1631 623 1588 595 1619"/>
+						</Shape>
+						<String CONTENT="مايكره فى الصلوة ومالا" HPOS="560" VPOS="1588" WIDTH="269" HEIGHT="268"/>
+					</TextLine>
+					<TextLine ID="eSc_line_5dcdef0b" BASELINE="604 1766 656 1819" HPOS="566" VPOS="1736" WIDTH="109" HEIGHT="109">
+						<Shape>
+							<Polygon POINTS="603 1765 566 1799 623 1845 655 1816 675 1788 629 1736 603 1765"/>
+						</Shape>
+						<String CONTENT="٧" HPOS="566" VPOS="1736" WIDTH="109" HEIGHT="109"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="818" VPOS="1868" WIDTH="277" HEIGHT="238" ID="eSc_textblock_b77ce18b" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="818 1868 818 2106 1095 2106 1095 1868"/>
+					</Shape>
+					<TextLine ID="eSc_line_ee95da09" BASELINE="1012 1905 1095 1987" HPOS="981" VPOS="1782" WIDTH="229" HEIGHT="226">
+						<Shape>
+							<Polygon POINTS="1009 1902 981 1925 1064 2008 1092 1985 1210 1862 1129 1782 1009 1902"/>
+						</Shape>
+						<String CONTENT="باب" HPOS="981" VPOS="1782" WIDTH="229" HEIGHT="226"/>
+					</TextLine>
+					<TextLine ID="eSc_line_6bb4c3ba" BASELINE="854 1872 1092 2063" HPOS="835" VPOS="1836" WIDTH="283" HEIGHT="243">
+						<Shape>
+							<Polygon POINTS="852 1871 835 1891 1012 2062 1012 2065 1015 2065 1018 2065 1075 2079 1089 2062 1118 2011 1075 2002 1004 1948 984 1916 949 1862 946 1862 946 1859 944 1859 875 1836 852 1871"/>
+						</Shape>
+						<String CONTENT="القضاء والفوائت" HPOS="835" VPOS="1836" WIDTH="283" HEIGHT="243"/>
+					</TextLine>
+					<TextLine ID="eSc_line_ab388a53" BASELINE="884 2000 920 2043" HPOS="838" VPOS="1965" WIDTH="120" HEIGHT="114">
+						<Shape>
+							<Polygon POINTS="883 1999 838 2033 863 2079 918 2042 958 2002 918 1965 883 1999"/>
+						</Shape>
+						<String CONTENT="٩" HPOS="838" VPOS="1965" WIDTH="120" HEIGHT="114"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="254" VPOS="1604" WIDTH="267" HEIGHT="231" ID="eSc_textblock_121ad3e1" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="254 1604 254 1835 521 1835 521 1604"/>
+					</Shape>
+					<TextLine ID="eSc_line_f39a341c" BASELINE="353 1634 518 1806" HPOS="314" VPOS="1599" WIDTH="238" HEIGHT="237">
+						<Shape>
+							<Polygon POINTS="351 1631 314 1665 409 1733 477 1836 517 1805 552 1762 380 1599 351 1631"/>
+						</Shape>
+						<String CONTENT="باب النوافل" HPOS="314" VPOS="1599" WIDTH="238" HEIGHT="237"/>
+					</TextLine>
+					<TextLine ID="eSc_line_07458508" BASELINE="340 1756 412 1812" HPOS="311" VPOS="1722" WIDTH="118" HEIGHT="109">
+						<Shape>
+							<Polygon POINTS="337 1753 311 1785 394 1831 411 1811 429 1773 357 1722 337 1753"/>
+						</Shape>
+						<String CONTENT="٨" HPOS="311" VPOS="1722" WIDTH="118" HEIGHT="109"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="547" VPOS="1872" WIDTH="261" HEIGHT="227" ID="eSc_textblock_b632edd5" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="547 1872 547 2099 808 2099 808 1872"/>
+					</Shape>
+					<TextLine ID="eSc_line_e5b2c2b8" BASELINE="610 2013 679 2073" HPOS="563" VPOS="1979" WIDTH="135" HEIGHT="123">
+						<Shape>
+							<Polygon POINTS="609 2011 563 2062 646 2102 677 2071 698 2033 635 1979 609 2011"/>
+						</Shape>
+						<String CONTENT="٩" HPOS="563" VPOS="1979" WIDTH="135" HEIGHT="123"/>
+					</TextLine>
+					<TextLine ID="eSc_line_41661099" BASELINE="594 1891 792 2079" HPOS="560" VPOS="1848" WIDTH="263" HEIGHT="243">
+						<Shape>
+							<Polygon POINTS="592 1888 560 1916 652 1971 683 2016 726 2076 729 2076 729 2079 732 2079 775 2091 789 2076 823 2036 726 1911 723 1911 723 1908 626 1848 592 1888"/>
+						</Shape>
+						<String CONTENT="باب سجدة السهو" HPOS="560" VPOS="1848" WIDTH="263" HEIGHT="243"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="828" VPOS="2129" WIDTH="267" HEIGHT="217" ID="eSc_textblock_a7ac400b" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="828 2129 828 2346 1095 2346 1095 2129"/>
+					</Shape>
+					<TextLine ID="eSc_line_64967319" BASELINE="861 2119 1095 2320" HPOS="823" VPOS="2097" WIDTH="345" HEIGHT="274">
+						<Shape>
+							<Polygon POINTS="823 2153 929 2225 966 2265 1032 2336 1032 2339 1035 2339 1038 2339 1069 2342 1092 2319 1132 2371 1152 2274 1168 2310 1124 2238 1107 2225 1097 2271 1100 2228 1068 2201 1016 2163 961 2143 922 2097 858 2116"/>
+						</Shape>
+						<String CONTENT="فى الصلوة المسافر" HPOS="823" VPOS="2097" WIDTH="345" HEIGHT="274"/>
+					</TextLine>
+					<TextLine ID="eSc_line_ab47161b" BASELINE="857 2271 947 2337" HPOS="826" VPOS="2233" WIDTH="140" HEIGHT="115">
+						<Shape>
+							<Polygon POINTS="855 2268 826 2299 863 2336 863 2339 866 2339 869 2339 935 2348 946 2336 966 2302 924 2251 921 2251 921 2248 918 2248 878 2233 855 2268"/>
+						</Shape>
+						<String CONTENT="٩" HPOS="826" VPOS="2233" WIDTH="140" HEIGHT="115"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="244" VPOS="1875" WIDTH="284" HEIGHT="227" ID="eSc_textblock_93ebf5a6" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="244 1875 244 2102 528 2102 528 1875"/>
+					</Shape>
+					<TextLine ID="eSc_line_50f41dd2" BASELINE="323 1875 511 2079" HPOS="291" VPOS="1845" WIDTH="241" HEIGHT="254">
+						<Shape>
+							<Polygon POINTS="320 1873 291 1896 426 2071 429 2071 429 2073 431 2073 483 2099 509 2076 532 2045 443 1922 440 1922 440 1919 346 1845 320 1873"/>
+						</Shape>
+						<String CONTENT="باب سجدة التلاوة" HPOS="291" VPOS="1845" WIDTH="241" HEIGHT="254"/>
+					</TextLine>
+					<TextLine ID="eSc_line_fb65f30f" BASELINE="340 2023 399 2083" HPOS="291" VPOS="1985" WIDTH="135" HEIGHT="111">
+						<Shape>
+							<Polygon POINTS="337 2022 291 2065 377 2096 397 2082 426 2048 371 1985 337 2022"/>
+						</Shape>
+						<String CONTENT="٩" HPOS="291" VPOS="1985" WIDTH="135" HEIGHT="111"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="544" VPOS="2125" WIDTH="261" HEIGHT="238" ID="eSc_textblock_24493559" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="544 2125 544 2363 805 2363 805 2125"/>
+					</Shape>
+					<TextLine ID="eSc_line_a87fdbf7" BASELINE="689 2168 782 2267" HPOS="652" VPOS="2139" WIDTH="151" HEIGHT="143">
+						<Shape>
+							<Polygon POINTS="686 2165 652 2193 760 2282 780 2265 803 2236 712 2139 686 2165"/>
+						</Shape>
+						<String CONTENT="باب" HPOS="652" VPOS="2139" WIDTH="151" HEIGHT="143"/>
+					</TextLine>
+					<TextLine ID="eSc_line_b204ab64" BASELINE="574 2261 663 2323" HPOS="549" VPOS="2228" WIDTH="128" HEIGHT="120">
+						<Shape>
+							<Polygon POINTS="572 2259 549 2288 563 2316 563 2319 566 2319 566 2322 569 2322 637 2348 660 2322 677 2288 592 2228 572 2259"/>
+						</Shape>
+						<String CONTENT="١٠" HPOS="549" VPOS="2228" WIDTH="128" HEIGHT="120"/>
+					</TextLine>
+					<TextLine ID="eSc_line_4b9ed8a7" BASELINE="567 2145 792 2350" HPOS="543" VPOS="2113" WIDTH="269" HEIGHT="255">
+						<Shape>
+							<Polygon POINTS="543 2165 554 2196 554 2199 557 2199 557 2202 560 2202 563 2202 597 2211 669 2308 672 2308 672 2311 766 2368 789 2348 812 2319 674 2196 720 2213 720 2211 718 2211 672 2188 666 2159 666 2156 666 2153 663 2153 663 2151 660 2151 589 2113 566 2142"/>
+						</Shape>
+						<String CONTENT="الصلوة فى السفينة" HPOS="543" VPOS="2113" WIDTH="269" HEIGHT="255"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="828" VPOS="2383" WIDTH="287" HEIGHT="247" ID="eSc_textblock_4fcf6068" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="828 2383 828 2630 1115 2630 1115 2383"/>
+					</Shape>
+					<TextLine ID="eSc_line_0fc4d8ac" BASELINE="973 2409 1095 2528" HPOS="946" VPOS="2385" WIDTH="173" HEIGHT="171">
+						<Shape>
+							<Polygon POINTS="972 2408 946 2431 1052 2556 1092 2525 1119 2487 1059 2414 1019 2385"/>
+						</Shape>
+						<String CONTENT="باب فى" HPOS="946" VPOS="2385" WIDTH="173" HEIGHT="171"/>
+					</TextLine>
+					<TextLine ID="eSc_line_230d4265" BASELINE="884 2445 1059 2587" HPOS="846" VPOS="2402" WIDTH="229" HEIGHT="208">
+						<Shape>
+							<Polygon POINTS="846 2488 924 2525 949 2559 981 2599 984 2599 984 2602 986 2602 989 2602 1032 2610 1058 2585 1075 2564 912 2402 883 2442"/>
+						</Shape>
+						<String CONTENT="صلوة الجمعة" HPOS="846" VPOS="2402" WIDTH="229" HEIGHT="208"/>
+					</TextLine>
+					<TextLine ID="eSc_line_9bcd02bd" BASELINE="848 2528 930 2584" HPOS="823" VPOS="2476" WIDTH="129" HEIGHT="129">
+						<Shape>
+							<Polygon POINTS="846 2525 823 2556 878 2573 903 2605 929 2582 952 2542 924 2499 921 2499 921 2496 918 2496 875 2476 846 2525"/>
+						</Shape>
+						<String CONTENT="١٠" HPOS="823" VPOS="2476" WIDTH="129" HEIGHT="129"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="244" VPOS="2139" WIDTH="277" HEIGHT="221" ID="eSc_textblock_2e876f32" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="244 2139 244 2360 521 2360 521 2139"/>
+					</Shape>
+					<TextLine ID="eSc_line_5171190b" BASELINE="422 2155 501 2231" HPOS="394" VPOS="2125" WIDTH="126" HEIGHT="128">
+						<Shape>
+							<Polygon POINTS="420 2153 394 2179 472 2253 500 2228 520 2202 443 2125 420 2153"/>
+						</Shape>
+						<String CONTENT="باب" HPOS="394" VPOS="2125" WIDTH="126" HEIGHT="128"/>
+					</TextLine>
+					<TextLine ID="eSc_line_7358df57" BASELINE="297 2135 531 2346" HPOS="263" VPOS="2099" WIDTH="291" HEIGHT="269">
+						<Shape>
+							<Polygon POINTS="294 2133 263 2165 369 2273 369 2276 371 2276 374 2276 397 2279 403 2279 503 2368 529 2345 554 2311 394 2148 394 2145 323 2099 294 2133"/>
+						</Shape>
+						<String CONTENT="فى الصلوة الاخرس والمريض" HPOS="263" VPOS="2099" WIDTH="291" HEIGHT="269"/>
+					</TextLine>
+					<TextLine ID="eSc_line_94ddaa26" BASELINE="307 2257 386 2327" HPOS="280" VPOS="2222" WIDTH="123" HEIGHT="114">
+						<Shape>
+							<Polygon POINTS="306 2256 280 2285 371 2336 383 2325 403 2299 331 2222 306 2256"/>
+						</Shape>
+						<String CONTENT="١٠" HPOS="280" VPOS="2222" WIDTH="123" HEIGHT="114"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="544" VPOS="2389" WIDTH="274" HEIGHT="228" ID="eSc_textblock_be3c445c" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="544 2389 544 2617 818 2617 818 2389"/>
+					</Shape>
+					<TextLine ID="eSc_line_4cea5599" BASELINE="590 2508 683 2567" HPOS="566" VPOS="2462" WIDTH="132" HEIGHT="120">
+						<Shape>
+							<Polygon POINTS="589 2505 566 2536 666 2582 680 2565 698 2528 612 2462 589 2505"/>
+						</Shape>
+						<String CONTENT="١٠" HPOS="566" VPOS="2462" WIDTH="132" HEIGHT="120"/>
+					</TextLine>
+					<TextLine ID="eSc_line_09649fff" BASELINE="613 2399 805 2604" HPOS="577" VPOS="2356" WIDTH="261" HEIGHT="266">
+						<Shape>
+							<Polygon POINTS="612 2396 577 2425 775 2622 803 2602 838 2562 740 2425 738 2425 738 2422 649 2356 612 2396"/>
+						</Shape>
+						<String CONTENT="باب فى صلوة العيدين" HPOS="577" VPOS="2356" WIDTH="261" HEIGHT="266"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="831" VPOS="2637" WIDTH="274" HEIGHT="264" ID="eSc_textblock_523af173" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="831 2637 831 2901 1105 2901 1105 2637"/>
+					</Shape>
+					<TextLine ID="eSc_line_fed59a7e" BASELINE="871 2785 947 2844" HPOS="832" VPOS="2748" WIDTH="129" HEIGHT="128">
+						<Shape>
+							<Polygon POINTS="869 2782 832 2830 918 2876 946 2842 961 2808 892 2748 869 2782"/>
+						</Shape>
+						<String CONTENT="١٢" HPOS="832" VPOS="2748" WIDTH="129" HEIGHT="128"/>
+					</TextLine>
+					<TextLine ID="eSc_line_d47c0560" BASELINE="874 2653 1085 2851" HPOS="829" VPOS="2610" WIDTH="292" HEIGHT="266">
+						<Shape>
+							<Polygon POINTS="872 2650 829 2690 929 2796 929 2799 932 2799 981 2813 989 2816 1055 2876 1084 2850 1121 2799 1049 2745 1049 2739 1047 2705 1047 2702 1047 2699 1044 2699 969 2630 969 2628 966 2628 964 2628 961 2628 926 2628 924 2628 903 2610 872 2650"/>
+						</Shape>
+						<String CONTENT="كتاب الزكوة" HPOS="829" VPOS="2610" WIDTH="292" HEIGHT="266"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="254" VPOS="2389" WIDTH="284" HEIGHT="225" ID="eSc_textblock_24d685b4" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="254 2389 254 2614 538 2614 538 2389"/>
+					</Shape>
+					<TextLine ID="eSc_line_16ca9efb" BASELINE="429 2419 508 2482" HPOS="409" VPOS="2385" WIDTH="111" HEIGHT="108">
+						<Shape>
+							<Polygon POINTS="426 2416 409 2433 489 2493 506 2479 520 2448 449 2385 426 2416"/>
+						</Shape>
+						<String CONTENT="باب" HPOS="409" VPOS="2385" WIDTH="111" HEIGHT="108"/>
+					</TextLine>
+					<TextLine ID="eSc_line_0e2b35eb" BASELINE="346 2406 514 2564" HPOS="320" VPOS="2373" WIDTH="214" HEIGHT="212">
+						<Shape>
+							<Polygon POINTS="434 2453 437 2428 437 2425 369 2373 343 2405 320 2425 486 2585 512 2562 534 2531 523 2499 523 2496 520 2496 520 2493 489 2468 476 2490"/>
+						</Shape>
+						<String CONTENT="احكام الجنايز" HPOS="320" VPOS="2373" WIDTH="214" HEIGHT="212"/>
+					</TextLine>
+					<TextLine ID="eSc_line_542eae82" BASELINE="264 2518 340 2577" HPOS="243" VPOS="2485" WIDTH="117" HEIGHT="111">
+						<Shape>
+							<Polygon POINTS="263 2516 243 2536 317 2596 337 2576 360 2539 286 2485 263 2516"/>
+						</Shape>
+						<String CONTENT="١١" HPOS="243" VPOS="2485" WIDTH="117" HEIGHT="111"/>
+					</TextLine>
+					<TextLine ID="eSc_line_2a79a8cc" BASELINE="277 2439 449 2617" HPOS="240" VPOS="2405" WIDTH="234" HEIGHT="240">
+						<Shape>
+							<Polygon POINTS="274 2436 240 2465 411 2645 446 2616 474 2585 434 2519 431 2519 431 2516 303 2405 274 2436"/>
+						</Shape>
+						<String CONTENT="باب الشهيد" HPOS="240" VPOS="2405" WIDTH="234" HEIGHT="240"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="551" VPOS="2637" WIDTH="257" HEIGHT="257" ID="eSc_textblock_2f19b40b" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="551 2637 551 2894 808 2894 808 2637"/>
+					</Shape>
+					<TextLine ID="eSc_line_644e3f51" BASELINE="597 2765 683 2831" HPOS="557" VPOS="2730" WIDTH="141" HEIGHT="140">
+						<Shape>
+							<Polygon POINTS="595 2762 557 2805 640 2870 680 2830 698 2796 617 2730 595 2762"/>
+						</Shape>
+						<String CONTENT="١٢" HPOS="557" VPOS="2730" WIDTH="141" HEIGHT="140"/>
+					</TextLine>
+					<TextLine ID="eSc_line_360740e1" BASELINE="600 2656 795 2838" HPOS="563" VPOS="2619" WIDTH="252" HEIGHT="240">
+						<Shape>
+							<Polygon POINTS="597 2653 563 2685 695 2822 695 2825 698 2825 766 2859 792 2836 815 2805 698 2659 695 2659 695 2656 692 2656 626 2619 597 2653"/>
+						</Shape>
+						<String CONTENT="باب المصرف" HPOS="563" VPOS="2619" WIDTH="252" HEIGHT="240"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock HPOS="244" VPOS="2643" WIDTH="284" HEIGHT="244" ID="eSc_textblock_334a07ad" TAGREFS="BT1149">
+					<Shape>
+						<Polygon POINTS="244 2643 244 2887 528 2887 528 2643"/>
+					</Shape>
+					<TextLine ID="eSc_line_4bdff8d3" BASELINE="290 2775 356 2828" HPOS="240" VPOS="2739" WIDTH="134" HEIGHT="140">
+						<Shape>
+							<Polygon POINTS="288 2773 240 2830 308 2879 354 2825 374 2788 311 2739 288 2773"/>
+						</Shape>
+						<String CONTENT="١٣" HPOS="240" VPOS="2739" WIDTH="134" HEIGHT="140"/>
+					</TextLine>
+					<TextLine ID="eSc_line_d1fcecb2" BASELINE="300 2656 505 2844" HPOS="268" VPOS="2619" WIDTH="261" HEIGHT="254">
+						<Shape>
+							<Polygon POINTS="297 2653 268 2685 363 2750 371 2782 377 2796 377 2799 380 2799 380 2802 469 2873 503 2842 529 2808 517 2770 517 2768 514 2768 514 2765 429 2705 417 2673 417 2670 414 2670 414 2668 411 2668 409 2668 377 2665 326 2619 297 2653"/>
+						</Shape>
+						<String CONTENT="باب العشر" HPOS="268" VPOS="2619" WIDTH="261" HEIGHT="254"/>
+					</TextLine>
+				</TextBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

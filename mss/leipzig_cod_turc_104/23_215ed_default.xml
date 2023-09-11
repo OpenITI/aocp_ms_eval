@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>23_215ed_default.png</fileName>
+			<fileIdentifier>https://www.qalamos.net/api/iiif/image/v2/DE15Book_derivate_00002117%2Fcod_turc_104_024.jpg/full/full/0/default.jpg</fileIdentifier>
+		</sourceImageInformation>
+	</Description>
+	<Tags>
+		<OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+		<OtherTag ID="BT1149" LABEL="Box" DESCRIPTION="block type Box"/>
+	</Tags>
+	<Layout>
+		<Page WIDTH="2091" HEIGHT="3521" PHYSICAL_IMG_NR="23" ID="eSc_dummypage_">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2091" HEIGHT="3521">
+				<TextBlock ID="eSc_dummyblock_">
+					<TextLine ID="eSc_line_1635c6ec" BASELINE="979 769 1832 762" HPOS="977" VPOS="706" WIDTH="852" HEIGHT="115">
+						<Shape>
+							<Polygon POINTS="977 806 1209 821 1212 821 1215 821 1254 806 1441 818 1444 818 1829 798 1829 759 1820 706 979 721 977 768"/>
+						</Shape>
+						<String CONTENT="انبيا عليهم الصّلوة والسّلام حضراتندن غيرى اولياء للّهدن" HPOS="977" VPOS="706" WIDTH="852" HEIGHT="115"/>
+					</TextLine>
+					<TextLine ID="eSc_line_f75f26c1" BASELINE="975 852 1818 841" HPOS="969" VPOS="786" WIDTH="848" HEIGHT="111">
+						<Shape>
+							<Polygon POINTS="972 897 1480 883 1506 886 1594 894 1597 894 1600 894 1603 894 1618 880 1621 880 1638 880 1765 891 1767 891 1770 891 1817 874 1817 839 1811 805 1591 801 1570 824 1432 811 1348 810 1306 786 1303 786 1315 804 1127 806 969 789 972 850"/>
+						</Shape>
+						<String CONTENT="اولان كمسنه لر بر ايلق دخى زياده مسافه يه بركونده واررلر وكلورلر" HPOS="969" VPOS="786" WIDTH="848" HEIGHT="111"/>
+					</TextLine>
+					<TextLine ID="eSc_line_04e15918" BASELINE="996 934 1818 919" HPOS="992" VPOS="856" WIDTH="825" HEIGHT="121">
+						<Shape>
+							<Polygon POINTS="995 959 1107 977 1110 977 1207 959 1303 977 1306 977 1309 977 1312 977 1312 974 1315 974 1330 956 1374 971 1377 971 1380 974 1650 974 1650 971 1814 944 1817 918 1814 871 1791 856 1788 856 1785 856 1782 856 1779 856 1750 871 1615 859 1612 859 1609 859 1631 868 1564 892 1486 859 1483 859 1480 859 1477 859 1477 862 1473 888 1324 862 1321 862 1318 862 1230 891 1157 865 1154 865 992 886 995 933"/>
+						</Shape>
+						<String CONTENT="ديو اعتقاد ايتمك جائز اولورمى الجواب اولور" HPOS="992" VPOS="856" WIDTH="825" HEIGHT="121"/>
+					</TextLine>
+					<TextLine ID="eSc_line_4389439c" BASELINE="982 1002 1829 1002" HPOS="975" VPOS="950" WIDTH="851" HEIGHT="88">
+						<Shape>
+							<Polygon POINTS="980 1038 1826 1038 1826 1000 1823 950 975 964 980 1000"/>
+						</Shape>
+						<String CONTENT="بوصورتده وجه محرّراوزره قطع مسافه ادعى وجوازنه اعتقاد" HPOS="975" VPOS="950" WIDTH="851" HEIGHT="88"/>
+					</TextLine>
+					<TextLine ID="eSc_line_0bfd70c3" BASELINE="1036 1087 1839 1077" HPOS="1030" VPOS="1015" WIDTH="808" HEIGHT="102">
+						<Shape>
+							<Polygon POINTS="1033 1117 1835 1109 1838 1076 1832 1035 1668 1035 1588 1031 1606 1015 1603 1015 1600 1015 1547 1035 1459 1018 1456 1018 1379 1048 1336 1018 1333 1018 1328 1039 1030 1041 1033 1085"/>
+						</Shape>
+						<String CONTENT="ايدن كمسنه لر تصليل وياتبديع اولنورلرمى الجواب" HPOS="1030" VPOS="1015" WIDTH="808" HEIGHT="102"/>
+					</TextLine>
+					<TextLine ID="eSc_line_022bfb04" BASELINE="1000 1237 1832 1227" HPOS="995" VPOS="1156" WIDTH="834" HEIGHT="129">
+						<Shape>
+							<Polygon POINTS="998 1235 998 1267 1030 1285 1033 1285 1036 1285 1133 1270 1248 1285 1251 1285 1254 1285 1283 1270 1295 1264 1383 1264 1392 1270 1403 1282 1406 1282 1409 1282 1412 1282 1500 1273 1603 1261 1826 1276 1829 1226 1820 1156 1201 1179 1186 1176 1124 1161 1121 1161 1118 1161 1115 1161 1113 1161 1095 1176 1077 1164 1074 1164 1071 1164 1068 1164 1066 1164 995 1182 998 1235"/>
+						</Shape>
+						<String CONTENT="اهل جنّت لسانى عربيميدر يوخسه فارسميد الجواب" HPOS="995" VPOS="1156" WIDTH="834" HEIGHT="129"/>
+					</TextLine>
+					<TextLine ID="eSc_line_9eb13360" BASELINE="1371 1148 1557 1148" HPOS="1363" VPOS="1106" WIDTH="193" HEIGHT="79">
+						<Shape>
+							<Polygon POINTS="1368 1185 1556 1176 1556 1147 1556 1106 1363 1112 1368 1147"/>
+						</Shape>
+						<String CONTENT="اولنماز" HPOS="1363" VPOS="1106" WIDTH="193" HEIGHT="79"/>
+					</TextLine>
+					<TextLine ID="eSc_line_4ce85a21" BASELINE="1286 1312 1668 1309" HPOS="1283" VPOS="1255" WIDTH="382" HEIGHT="100">
+						<Shape>
+							<Polygon POINTS="1283 1337 1588 1355 1591 1355 1594 1355 1665 1335 1665 1308 1659 1255 1285 1270 1283 1311"/>
+						</Shape>
+						<String CONTENT="عربى فارسيّه درديه در" HPOS="1283" VPOS="1255" WIDTH="382" HEIGHT="100"/>
+					</TextLine>
+					<TextLine ID="eSc_line_65b72443" BASELINE="1000 1384 1821 1384" HPOS="996" VPOS="1328" WIDTH="824" HEIGHT="103">
+						<Shape>
+							<Polygon POINTS="996 1418 1425 1415 1591 1431 1820 1414 1820 1381 1813 1346 998 1328 998 1381"/>
+						</Shape>
+						<String CONTENT="ماقول حضرت شيخ الاسلام ومفتئ انام اعزّ الله الملك العلام" HPOS="996" VPOS="1328" WIDTH="824" HEIGHT="103"/>
+					</TextLine>
+					<TextLine ID="eSc_line_5e3f2f0b" BASELINE="982 1459 1836 1459" HPOS="973" VPOS="1396" WIDTH="862" HEIGHT="132">
+						<Shape>
+							<Polygon POINTS="980 1522 1142 1519 1145 1519 1148 1519 1148 1516 1298 1497 1441 1522 1444 1522 1447 1522 1491 1502 1541 1516 1544 1516 1547 1516 1550 1516 1615 1502 1700 1516 1703 1516 1706 1516 1709 1516 1729 1502 1759 1525 1762 1525 1765 1525 1767 1528 1835 1528 1835 1458 1832 1396 1538 1432 1491 1402 1486 1396 1483 1396 1480 1396 1477 1396 1474 1396 1471 1396 1462 1402 1447 1417 1365 1417 1339 1405 1309 1396 1306 1396 1303 1396 1212 1408 1174 1414 1168 1411 1160 1402 1160 1399 1157 1399 1154 1399 1151 1399 1148 1399 1121 1411 1118 1411 1113 1411 973 1419 1007 1396 1004 1396 1001 1396 980 1408 980 1458"/>
+						</Shape>
+						<String CONTENT="فى الجنّة والنّار هل هما مخلوقتان والآن موجودتان واذا كانتا" HPOS="973" VPOS="1396" WIDTH="862" HEIGHT="132"/>
+					</TextLine>
+					<TextLine ID="eSc_line_2ebf017c" BASELINE="1236 1537 1646 1541" HPOS="1230" VPOS="1490" WIDTH="414" HEIGHT="97">
+						<Shape>
+							<Polygon POINTS="1230 1563 1455 1576 1456 1587 1459 1587 1462 1587 1491 1566 1512 1581 1515 1581 1518 1581 1521 1581 1641 1560 1644 1540 1641 1496 1233 1490 1233 1534"/>
+						</Shape>
+						<String CONTENT="موجودتان هل بطرء" HPOS="1230" VPOS="1490" WIDTH="414" HEIGHT="97"/>
+					</TextLine>
+					<TextLine ID="eSc_line_92867a6e" BASELINE="1207 1609 1650 1612" HPOS="1201" VPOS="1549" WIDTH="446" HEIGHT="103">
+						<Shape>
+							<Polygon POINTS="1579 1652 1647 1610 1644 1566 1242 1566 1207 1549 1204 1607 1201 1646"/>
+						</Shape>
+						<String CONTENT="عليهما لعدم بينو النّا بالجواب" HPOS="1201" VPOS="1549" WIDTH="446" HEIGHT="103"/>
+					</TextLine>
+					<TextLine ID="eSc_line_8d924342" BASELINE="1211 1687 1643 1687" HPOS="1209" VPOS="1640" WIDTH="432" HEIGHT="108">
+						<Shape>
+							<Polygon POINTS="1209 1734 1394 1745 1397 1745 1400 1745 1427 1731 1430 1731 1444 1745 1447 1745 1450 1745 1453 1748 1453 1745 1456 1745 1459 1745 1474 1731 1477 1731 1641 1731 1641 1684 1631 1655 1209 1640 1209 1684"/>
+						</Shape>
+						<String CONTENT="اثابكم الملك العزيز الوهّاب" HPOS="1209" VPOS="1640" WIDTH="432" HEIGHT="108"/>
+					</TextLine>
+					<TextLine ID="eSc_line_e656d4ff" BASELINE="1261 1773 1571 1773" HPOS="1259" VPOS="1716" WIDTH="309" HEIGHT="97">
+						<Shape>
+							<Polygon POINTS="1259 1813 1499 1802 1568 1772 1568 1734 1465 1716 1462 1716 1459 1716 1456 1716 1439 1734 1259 1734 1259 1772"/>
+						</Shape>
+						<String CONTENT="الجواب" HPOS="1259" VPOS="1716" WIDTH="309" HEIGHT="97"/>
+					</TextLine>
+					<TextLine ID="eSc_line_8501f8dc" BASELINE="1232 1848 1607 1837" HPOS="1227" VPOS="1772" WIDTH="379" HEIGHT="117">
+						<Shape>
+							<Polygon POINTS="1521 1775 1507 1803 1494 1800 1421 1812 1227 1783 1230 1845 1230 1880 1467 1875 1468 1889 1606 1869 1606 1836 1600 1772 1550 1772 1550 1775"/>
+						</Shape>
+						<String CONTENT="اعلم وفقك الله انّ الجنة والنار" HPOS="1227" VPOS="1772" WIDTH="379" HEIGHT="117"/>
+					</TextLine>
+					<TextLine ID="eSc_line_0e50ffb9" BASELINE="1229 1930 1632 1930" HPOS="1227" VPOS="1874" WIDTH="402" HEIGHT="88">
+						<Shape>
+							<Polygon POINTS="1227 1927 1227 1962 1629 1957 1629 1927 1629 1874 1227 1874 1227 1927"/>
+						</Shape>
+						<String CONTENT="مخلوقتان والآن موجودتان" HPOS="1227" VPOS="1874" WIDTH="402" HEIGHT="88"/>
+					</TextLine>
+					<TextLine ID="eSc_line_038eaba2" BASELINE="1257 1991 1582 1991" HPOS="1256" VPOS="1948" WIDTH="323" HEIGHT="97">
+						<Shape>
+							<Polygon POINTS="1256 2045 1579 2033 1579 1989 1577 1964 1256 1948 1256 1989"/>
+						</Shape>
+						<String CONTENT="لايطرء عليهما لفناء" HPOS="1256" VPOS="1948" WIDTH="323" HEIGHT="97"/>
+					</TextLine>
+					<TextLine ID="eSc_line_b2959838" BASELINE="1275 2073 1561 2073" HPOS="1267" VPOS="2030" WIDTH="292" HEIGHT="94">
+						<Shape>
+							<Polygon POINTS="1274 2118 1470 2110 1471 2124 1474 2124 1559 2100 1559 2071 1559 2030 1267 2041 1274 2071"/>
+						</Shape>
+						<String CONTENT="لابالعدم بالكليّة" HPOS="1267" VPOS="2030" WIDTH="292" HEIGHT="94"/>
+					</TextLine>
+					<TextLine ID="eSc_line_1c0466df" BASELINE="1282 2141 1543 2141" HPOS="1278" VPOS="2094" WIDTH="263" HEIGHT="86">
+						<Shape>
+							<Polygon POINTS="1280 2180 1541 2180 1541 2139 1538 2094 1278 2118 1280 2139"/>
+						</Shape>
+						<String CONTENT="ولايتفرق لاجزاء" HPOS="1278" VPOS="2094" WIDTH="263" HEIGHT="86"/>
+					</TextLine>
+					<TextLine ID="eSc_line_d63b0284" BASELINE="1179 2219 1700 2216" HPOS="1177" VPOS="2171" WIDTH="520" HEIGHT="105">
+						<Shape>
+							<Polygon POINTS="1177 2268 1412 2276 1415 2276 1494 2262 1512 2259 1521 2262 1559 2276 1562 2276 1565 2276 1694 2256 1697 2215 1691 2171 1179 2180 1177 2218"/>
+						</Shape>
+						<String CONTENT="عند اهل السنّة والجماعة وهو الحقّ" HPOS="1177" VPOS="2171" WIDTH="520" HEIGHT="105"/>
+					</TextLine>
+					<TextLine ID="eSc_line_040ac1d2" BASELINE="1011 2312 1825 2291" HPOS="1007" VPOS="2224" WIDTH="816" HEIGHT="126">
+						<Shape>
+							<Polygon POINTS="1010 2350 1820 2334 1823 2288 1812 2224 1753 2244 1700 2227 1697 2227 1694 2227 1691 2227 1679 2227 1579 2267 1463 2258 1477 2235 1477 2232 1474 2232 1471 2232 1468 2232 1465 2232 1456 2235 1413 2267 1007 2253 1010 2309"/>
+						</Shape>
+						<String CONTENT="اصناف كفر اوزرلرينه صوم وصلات وسائر طاعات" HPOS="1007" VPOS="2224" WIDTH="816" HEIGHT="126"/>
+					</TextLine>
+					<TextLine ID="eSc_line_def89d51" BASELINE="1168 2380 1725 2380" HPOS="1165" VPOS="2335" WIDTH="558" HEIGHT="91">
+						<Shape>
+							<Polygon POINTS="1165 2406 1327 2426 1330 2426 1436 2411 1481 2399 1512 2414 1579 2426 1582 2426 1585 2426 1618 2417 1650 2408 1720 2417 1723 2379 1722 2341 1165 2335 1165 2379"/>
+						</Shape>
+						<String CONTENT="مفروضه نك فرضتينه اعتقاد" HPOS="1165" VPOS="2335" WIDTH="558" HEIGHT="91"/>
+					</TextLine>
+					<TextLine ID="eSc_line_8a6083d7" BASELINE="1339 2444 1550 2444" HPOS="1334" VPOS="2391" WIDTH="213" HEIGHT="100">
+						<Shape>
+							<Polygon POINTS="1336 2491 1547 2473 1547 2441 1544 2391 1334 2421 1336 2441"/>
+						</Shape>
+						<String CONTENT="ايتمك" HPOS="1334" VPOS="2391" WIDTH="213" HEIGHT="100"/>
+					</TextLine>
+					<TextLine ID="eSc_line_84050426" BASELINE="1343 2523 1575 2516" HPOS="1339" VPOS="2470" WIDTH="235" HEIGHT="88">
+						<Shape>
+							<Polygon POINTS="1342 2552 1571 2558 1574 2514 1565 2480 1339 2470 1342 2520"/>
+						</Shape>
+						<String CONTENT="فرضمدر" HPOS="1339" VPOS="2470" WIDTH="235" HEIGHT="88"/>
+					</TextLine>
+					<TextLine ID="eSc_line_a39af97f" BASELINE="1329 2598 1557 2598" HPOS="1327" VPOS="2552" WIDTH="229" HEIGHT="94">
+						<Shape>
+							<Polygon POINTS="1327 2596 1327 2646 1556 2634 1556 2596 1556 2552 1327 2552 1327 2596"/>
+						</Shape>
+						<String CONTENT="الجواب" HPOS="1327" VPOS="2552" WIDTH="229" HEIGHT="94"/>
+					</TextLine>
+					<TextLine ID="eSc_line_df3359bf" BASELINE="1368 2669 1496 2669" HPOS="1365" VPOS="2633" WIDTH="129" HEIGHT="110">
+						<Shape>
+							<Polygon POINTS="1365 2743 1494 2743 1494 2667 1491 2639 1365 2633 1365 2667"/>
+						</Shape>
+						<String CONTENT="فرضدر" HPOS="1365" VPOS="2633" WIDTH="129" HEIGHT="110"/>
+					</TextLine>
+				</TextBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
